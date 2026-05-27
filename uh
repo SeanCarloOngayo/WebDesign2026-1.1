@@ -1,1 +1,30 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebDes Finals - Ongayo</title>
+</head>
+<body>
+
+    <h1>Web Development Finals</h1>
+    <h3>Ongayo Activity Links</h3>
+
+    <ul>
+        <li><a href="act1_ongayo.html">Activity 1</a></li>
+        <li><a href="act2_ongayo.html">Activity 2</a></li>
+        <li><a href="act3_ongayo.html">Activity 3</a></li>
+        <li><a href="act4_ongayo.html">Activity 4</a></li>
+        <li><a href="act5_ongayo.html">Activity 5</a></li>
+        <li><a href="act7_ongayo.html">Activity 7</a></li>
+        <li><a href="act8_ongayo.html">Activity 8</a></li>
+    </ul>
+
+    <hr>
+
+    <p>Scripts:</p>
+    <ul>
+        <li><a href="script.js">script.js</a></li>
+        <li><a href="script2.js">script2.js</a></li>
+    </ul>
+
+</body>
+</html>
